@@ -1,0 +1,2 @@
+# Mozilla Public License \(MPL\)
+
