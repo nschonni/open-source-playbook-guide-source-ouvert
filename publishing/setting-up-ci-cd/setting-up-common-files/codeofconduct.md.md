@@ -1,2 +1,0 @@
-# CODEOFCONDUCT.md
-
